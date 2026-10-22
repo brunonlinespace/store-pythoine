@@ -1,0 +1,19 @@
+{
+  "schema": 2,
+  "publisher_id": "brunonlinespace",
+  "store_revision": 5,
+  "components": [
+    {
+      "id": "store-pythoine",
+      "latest_version": "0.0.3-exp1",
+      "release_date": "2026-10-19",
+      "extended_description": "Store Pythoine is Suite Pythoine’s optional headless catalogue, content and acquisition backend. Suite owns the visible Store, trusted application identity, installed state and managed installation; Store supplies versioned local enrichment, explicit online refresh and verified package acquisition.",
+      "highlights": [
+        "Headless backend with Suite Pythoine as the only user-facing Store interface",
+        "Offline-first local content with explicit HTTPS catalogue refresh",
+        "Verified package acquisition using published SHA-256 before Suite installation"
+      ],
+      "release_notes": "0.0.3-exp1 retires the standalone Store window and presentation preferences. Store Pythoine now exposes only the headless publish, explicit online-refresh and verified-acquisition operations consumed by Suite Pythoine 0.11-exp6.0."
+    }
+  ]
+}
