@@ -1,0 +1,5 @@
+APP_NAME = "Store Pythoine"
+APP_VERSION = "0.0.4"
+APP_ID = "store-pythoine"
+APP_TAGLINE = "Get Pythoinated!"
+PUBLISHER = "brunonlinespace"

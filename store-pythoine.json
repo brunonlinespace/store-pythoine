@@ -1,0 +1,18 @@
+{
+  "id": "store-pythoine",
+  "name": "Store Pythoine",
+  "version": "0.0.4",
+  "publisher_id": "brunonlinespace",
+  "kind": "extension",
+  "description": "Headless trusted-repository discovery and rich-content backend for Suite Pythoine.",
+  "portable_command": [
+    "python3",
+    "main.py"
+  ],
+  "icon": "store_pythoine/assets/store-pythoine.png",
+  "capabilities": {
+    "routing": false,
+    "open": false,
+    "create": false
+  }
+}
